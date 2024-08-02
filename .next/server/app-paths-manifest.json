@@ -1,6 +1,8 @@
 {
-  "/single/page": "app/single/page.js",
+  "/mac/page": "app/mac/page.js",
+  "/karzina/page": "app/karzina/page.js",
   "/product/page": "app/product/page.js",
-  "/page": "app/page.js",
-  "/news/page": "app/news/page.js"
+  "/single/page": "app/single/page.js",
+  "/dastafka/page": "app/dastafka/page.js",
+  "/page": "app/page.js"
 }

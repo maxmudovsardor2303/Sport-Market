@@ -12,6 +12,16 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/mac/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/mac/page.js"
+    ],
+    "/news/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/news/page.js"
+    ],
     "/single/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -23,15 +33,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/product/page.js"
     ],
-    "/news/page": [
+    "/karzina/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/news/page.js"
+      "static/chunks/app/karzina/page.js"
     ],
-    "/mac/page": [
+    "/dastafka/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/mac/page.js"
+      "static/chunks/app/dastafka/page.js"
     ]
   }
 }
